@@ -16,3 +16,9 @@ venv/
 .DS_Store
 Thumbs.db
 ~$*
+
+# Document and reference files (Never push to GitHub)
+*.pdf
+Doc1.pdf
+doc1.pdf
+Recipes_Maggie_Collaborative_Filtering_Surprise.ipynb
