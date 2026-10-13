@@ -68,6 +68,6 @@ Collaborative filtering models on Food.com achieve low error metrics (MAE approx
 ## Project Structure
 
 • Recipe_Recommender.ipynb: Full Jupyter Notebook with data ingestion, EDA, collaborative filtering, clustering, and content based pipelines with executed outputs.
-• Recipe_Recommender_Presentation.pptx: Research presentation slide deck with 13 slides matching the project report.
+• Recipe_Recommender_Presentation.pptx: Research presentation slide deck with 14 slides matching the project report.
 • data: Folder containing Food.com datasets.
 • README.md: Project documentation and summary report.
