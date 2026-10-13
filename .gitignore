@@ -21,4 +21,6 @@ Thumbs.db
 *.pdf
 Doc1.pdf
 doc1.pdf
+*.pptx
+Recipe_Recommender_Presentation.pptx
 Recipes_Maggie_Collaborative_Filtering_Surprise.ipynb

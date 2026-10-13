@@ -105,7 +105,6 @@ As future work, I propose a two stage hybrid recommendation framework:
 ## Repository Structure
 
 • **Recipe_Recommender.ipynb:** Primary Jupyter Notebook containing data loading, preprocessing, exploratory visualizations, Scikit Surprise benchmarks, NLTK Cosine KMeans clustering, and Content Based evaluation with fully executed outputs.  
-• **Recipe_Recommender_Presentation.pptx:** Comprehensive 14 slide research presentation designed for academic defense and video walkthroughs, featuring notebook extracted figures and zero dashes.  
 • **README.md:** Complete project documentation and research summary report.  
 • **data/:** Directory housing the Food.com benchmark datasets.
 
@@ -114,5 +113,4 @@ As future work, I propose a two stage hybrid recommendation framework:
 • **Programming Language:** Python 3.8+  
 • **Recommender Systems:** Scikit Surprise (KNNBasic, KNNWithMeans, KNNWithZScore, KNNBaseline, SVD, SVDpp, NMF, CoClustering)  
 • **Natural Language Processing & Clustering:** NLTK (KMeansClusterer, cosine_distance), Scikit Learn (TfidfVectorizer, cosine_similarity, KMeans, Silhouette analysis)  
-• **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-• **Presentation Engineering:** python pptx
+• **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
