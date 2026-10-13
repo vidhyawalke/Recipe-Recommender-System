@@ -15,6 +15,8 @@ The system explores three distinct recommendation paradigms:
 
 ## Dataset Description
 
+Kaggle Dataset Link: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+
 The analysis uses the Food.com dataset (formerly GeniusKitchen) introduced by Majumder et al. (EMNLP 2019):
 • PP_users.csv: 25,076 users with techniques, ingredients tried, and rating counts
 • PP_recipes.csv: 178,265 recipes with tokenized names, ingredients, steps, and calorie levels
