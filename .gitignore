@@ -1,0 +1,17 @@
+# Data files (GitHub 100MB limit)
+data/
+*.csv
+*.pkl
+
+# Python and Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments and OS files
+.env
+.venv
+env/
+venv/
+.DS_Store
+Thumbs.db
