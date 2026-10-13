@@ -6,7 +6,7 @@
 
 Dataset Benchmark: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 
-## Executive Summary
+## Summary
 
 Online recipe platforms host hundreds of thousands of candidate meals. Everyday cooks face severe choice paralysis when searching for new recipes that match their culinary tastes, time constraints, and ingredient preferences. In this research project, I designed, implemented, and empirically evaluated an end to end recipe recommendation engine using the Food.com benchmark dataset consisting of 180K recipes and 1.13M user interactions.
 
